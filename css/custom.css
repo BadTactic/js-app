@@ -1,0 +1,27 @@
+#story {
+  display: none;
+  float: right;
+}
+
+h1  {
+  font-family: cursive;
+}
+
+.green-background {
+  background-color: green;
+  color: white;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+#black {
+  border-color: black;
+  background-color: black;
+}
+
+.white-background {
+  background-color: white;
+}
